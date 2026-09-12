@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm Lucky 👋
 
-<!--
-**LuuckyLL/LuuckyLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 FiveM Developer  
+🎨 UI • Gameplay • NUI Development
 
-Here are some ideas to get you started:
+## 🧑‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student from France interested in software development,
+game development and modern user interfaces.
+
+I mainly work on FiveM projects, creating gameplay systems,
+NUI interfaces and complete resources.
+
+## 🛠️ Tech Stack
+
+### Languages
+- Lua
+- JavaScript
+- TypeScript
+- Python
+- HTML
+- CSS
+
+### Frameworks & Tools
+- React
+- FiveM
+- Git
+- GitHub
+- Visual Studio Code
+
+## 🚀 Current Projects
+
+### 📱 Forza Phone
+A modern smartphone system for FiveM with a React-based interface,
+applications, calls, messages, camera systems and more.
+
+### 🎮 Imperium RP
+FiveM roleplay project — Coming Soon.
+
+## 📫 Find me
+
+- TikTok: @itsluckyl
+- YouTube: @NLRediffs
